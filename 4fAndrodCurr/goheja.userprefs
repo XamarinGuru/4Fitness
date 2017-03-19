@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="goheja/goheja.gohejamob4fitness.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="goheja/personalData.cs" Line="134" Column="90" />
+      <File FileName="goheja/util.cs" Line="75" Column="6" />
+      <File FileName="goheja/splash.cs" Line="1" Column="1" />
+      <File FileName="goheja/listingActivity.cs" Line="1" Column="1" />
+      <File FileName="goheja/MainActivity.cs" Line="662" Column="22" />
+      <File FileName="goheja/Services/LocationService.cs" Line="1" Column="1" />
+      <File FileName="goheja/Resources/Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="goheja/profile.cs" Line="1" Column="1" />
+      <File FileName="goheja/calen.cs" Line="1" Column="1" />
+      <File FileName="goheja/person.cs" Line="1" Column="1" />
+      <File FileName="goheja/App.cs" Line="4" Column="1" />
+      <File FileName="goheja/packages.config" Line="1" Column="1" />
+      <File FileName="goheja/SQLite.cs" Line="1" Column="1" />
+      <File FileName="goheja/SQLiteAsync.cs" Line="1" Column="1" />
+      <File FileName="goheja/Web References/trackSvc/Reference.map" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.goheja.gohejamob4fitness AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.sag" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="65" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="68" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="28" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="43" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="35" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="50" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="57" column="1" />
+      <Breakpoint file="/Users/sagivdaniel/Desktop/desAndroid/surfskiAndrodCurr/goheja/person.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

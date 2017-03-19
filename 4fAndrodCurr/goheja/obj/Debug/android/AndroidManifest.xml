@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="goheja.gohejamob4fitness" android:installLocation="auto" android:versionName="1.660" android:versionCode="660">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+  <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <application android:icon="@drawable/icon" android:label="4F" android:debuggable="true" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="listing" android:name="md59228ed6210a77aadeb224e1f7b872a0e.listingActivity" />
+    <activity android:icon="@drawable/icon" android:label="4Fitness" android:launchMode="singleInstance" android:screenOrientation="portrait" android:name="md59228ed6210a77aadeb224e1f7b872a0e.MainActivity" />
+    <activity android:noHistory="true" android:theme="@style/MyTheme.Splash" android:name="md59228ed6210a77aadeb224e1f7b872a0e.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md57bd8de931ba6af01e72c04bf33546bf9.LocationService" />
+    <activity android:label="Personal data" android:name="md59228ed6210a77aadeb224e1f7b872a0e.personalData" />
+    <activity android:label="profile" android:name="md59228ed6210a77aadeb224e1f7b872a0e.profile" />
+    <activity android:label="Calendar and reports" android:name="md59228ed6210a77aadeb224e1f7b872a0e.calen" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="goheja.gohejamob4fitness.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.goheja.gohejamob4fitness" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <activity android:name="MainActivity" android:screenOrientation="landscape" android:launchMode="singleInstance" android:noHistory="true"></activity>
+</manifest>

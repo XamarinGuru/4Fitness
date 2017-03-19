@@ -1,0 +1,7 @@
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/bin/Release/location2.UITests.dll.mdb
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/bin/Release/location2.UITests.dll
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/obj/Release/location2.UITests.dll
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/obj/Release/location2.UITests.dll.mdb
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/bin/Release/nunit.framework.dll
+/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2.UITests/bin/Release/Xamarin.UITest.dll
