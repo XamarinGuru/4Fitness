@@ -1,8 +1,0 @@
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/Xamarin.iOS.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/Calabash.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/System.Web.Services.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/4Fitness.exe
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/System.Xml.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/System.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/mscorlib.dll
-/Users/sagivdaniel/Desktop/4f/4FitnessIos/location2/obj/iPhone/Debug/build-iphone5.1-9.3.2/mtouch-cache/Link/System.Core.dll
