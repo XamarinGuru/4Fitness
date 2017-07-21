@@ -154,8 +154,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\font\Helvetica Neue CE 35 Thin.ttf" />
-    <AndroidAsset Include="Assets\font\arialbd.ttf" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <AndroidResource Include="Resources\drawable\active_tab.png" />
